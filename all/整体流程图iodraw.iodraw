@@ -63,7 +63,7 @@
         <mxCell id="K7n9PIQ355lkNpOBHmET-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;公司相关&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K7n9PIQ355lkNpOBHmET-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM检索公司相关内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K7n9PIQ355lkNpOBHmET-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM润色&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;输出&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="290" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
