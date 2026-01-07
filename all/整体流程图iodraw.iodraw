@@ -16,6 +16,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;意图&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;识别 1&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="170" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K7n9PIQ355lkNpOBHmET-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K7n9PIQ355lkNpOBHmET-0" target="K7n9PIQ355lkNpOBHmET-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K7n9PIQ355lkNpOBHmET-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;检索知识库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="290" width="90" height="50" as="geometry" />
         </mxCell>
@@ -48,8 +51,11 @@
         <mxCell id="K7n9PIQ355lkNpOBHmET-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="550" width="37" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K7n9PIQ355lkNpOBHmET-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="K7n9PIQ355lkNpOBHmET-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;网络&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;运维相关&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7n9PIQ355lkNpOBHmET-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;检索知识库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="185" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
